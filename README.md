@@ -19,5 +19,5 @@ Due to the large amount of modules imported, we have made a duplicate Google Col
 |:--		|:--	|
 |Goh Lee Hua	|Text pre-processing, Random forest classifier and GridSearchCV, Markdown comments	|
 |Hansel Tay		|Lemmatization, Metrics, Oversampling and undersampling techniques	|
-|Philip Lee Hann Yung		|Feature extraction, TF-IDF vectorization, Modelling and Hyperparameter tuning, Organization of project pipeline, Markdown comments |
+|Philip Lee Hann Yung (Group Leader)		|Feature extraction, TF-IDF vectorization, Modelling and Hyperparameter tuning, Organization of project pipeline, Markdown comments |
 |Tan Keng Soon	|Visualisation, Exploratory data analysis (EDA)	|
