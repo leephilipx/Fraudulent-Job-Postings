@@ -1,6 +1,11 @@
 # Fraudulent job postings
 
+Please note that comments are available in the notebook itself:  
+[EE0005_Mini_Project_Fraudulent_Job_Postings_(FINAL).ipynb](./EE0005_Mini_Project_Fraudulent_Job_Postings_(FINAL).ipynb)
+
 Due to the large amount of modules imported, we have made a duplicate Google Colab notebook [here](https://colab.research.google.com/drive/1tkvBHFZKgjELibboshSUl6sEP_rT4fTI?usp=sharing) for ease of running this notebook.
+
+
 
 ### Our objectives and the questions we intend to answer:
 
